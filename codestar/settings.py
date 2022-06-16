@@ -30,7 +30,7 @@ DEBUG = True
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
-ALLOWED_HOSTS = ["gregcotech007-codestar.herokuapp.com/", "localhost"]
+ALLOWED_HOSTS = ['gregcotech007-codestar.herokuapp.com', 'localhost']
 
 ACCOUNT_EMAIL_VERIFICATION = 'none'
 
